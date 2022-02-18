@@ -12,8 +12,8 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer** with a master's degree in Computer Science and Physics. </br> I graduated with an Ontario Diploma in Computer Programming from Seneca College (Toronto, Canada). </br>
-👨🏼‍💻  I graduated with  **an Ontario Diploma**  in **Computer Programming** from Seneca College (Toronto, Canada). </br></br>
+💻 I’m a **Full-stack developer** with a master's degree in Computer Science and Physics. </br> 
+👨🏼‍💻  I've graduated with  **an Ontario Diploma**  in **Computer Programming** from Seneca College (Toronto, Canada, 2021). </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>I am passionate about working with technology, solving interesting technical challenges. 
