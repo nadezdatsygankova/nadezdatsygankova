@@ -3,10 +3,10 @@
 <hr />
 
 <a href="https://www.linkedin.com/in/nadezdatsygankova/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+ LinkedIn
 </a>
 <a href="mailto:tsygankovanadia@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  tsygankovanadia@gmail.com
 </a>
 <a href="https://www.nadiatsy.com/" >
   https://www.nadiatsy.com/
