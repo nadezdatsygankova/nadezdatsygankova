@@ -2,15 +2,17 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/nadezdatsygankova/">
+<p><a href="https://www.linkedin.com/in/nadezdatsygankova/">
  LinkedIn
-</a>
+</a></p>
+<p>
 <a href="mailto:tsygankovanadia@gmail.com">
   tsygankovanadia@gmail.com
-</a>
+</a></p>
+<p>
 <a href="https://www.nadiatsy.com/" >
   https://www.nadiatsy.com/
-</a>
+</a></p>
 
 <br/>
 
