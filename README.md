@@ -8,6 +8,9 @@
 <a href="mailto:tsygankovanadia@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://www.nadiatsy.com/" >
+  https://www.nadiatsy.com/
+</a>
 
 <br/>
 
@@ -16,7 +19,7 @@
 👨🏼‍💻  I've graduated with  **an Ontario Diploma**  in **Computer Programming** from Seneca College (Toronto, Canada, 2021). </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
- <b><i>I am passionate about working with technology, solving interesting technical challenges. 
+ <b><i>I am passionate about working with technology and solving interesting technical challenges. 
     
 <br/>
 <hr />
