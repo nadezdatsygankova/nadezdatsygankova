@@ -21,7 +21,8 @@
 👨🏼‍💻  I've graduated with  **an Ontario Diploma**  in **Computer Programming** from Seneca College (Toronto, Canada, 2021). </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
- <b><i>I am passionate about working with technology and solving interesting technical challenges. 
+ <div>I create beautiful, functional, and user-centered digital experiences that drive real business results. With Master’s degrees in both Computer Science and Marketing — and expertise in GA4 analytics, marketing strategy, and business analysis — I bring a unique blend of technical skill, creative vision, and data-driven decision-making to every project.
+ </div>
     
 <br/>
 <hr />
