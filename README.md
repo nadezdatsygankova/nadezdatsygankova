@@ -13,6 +13,10 @@
 <a href="https://www.nadiatsy.com/" >
   https://www.nadiatsy.com/
 </a></p>
+<p>
+<a href="https://blog-tsy-nadia.netlify.app/" >
+https://blog-tsy-nadia.netlify.app/
+</a></p>
 
 <br/>
 
